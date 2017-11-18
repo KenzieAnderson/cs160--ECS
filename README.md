@@ -1,1 +1,2 @@
-cs16-ECS
+CS160- Hardware Project 
+by Kenzie Anderson
